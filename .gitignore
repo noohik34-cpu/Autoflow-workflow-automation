@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.db
+*.json
+*.csv
+.env
+.idea/
